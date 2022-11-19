@@ -192,7 +192,4 @@ allowfullscreen></iframe><br>
 <hr size="30" width="1800" color="lightskyblue">
 <br>
 <br>
-<br>
 
-</body>
-</html>.
