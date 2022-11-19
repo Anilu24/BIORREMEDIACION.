@@ -1,4 +1,4 @@
-# BIOTECNOLOGIA
+
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -34,10 +34,7 @@ bioactivas y alimentos funcionales para bienestar de organismos acuáticos, diag
 y manejo de enfermedades asociadas a la acuicultura, toxicología y genómica ambiental, manejo ambiental y <br>
 bioseguridad asociado al cultivo y procesamiento de organismos marinos y dulceacuícolas, biocombustibles, <br>
 y gestión y control de calidad en laboratorios.<br>
-<br>
-<td><img src=biot1.jpg height="200">
-<td><img src=biot2.jpg height="200">
-<td><img src=biot3.jpg height="200">
+
 <br>
 <hr size="10" width="1400" color="lightblue">
 <br>
@@ -61,8 +58,7 @@ repasamos algunas de las más relevantes en diferentes campos:<br>
 El desarrollo de la insulina, la hormona del crecimiento, la identidad y el diagnóstico molecular, las<br>
 terapias génicas y vacunas como la de la hepatitis B son algunos de los hitos de la biotecnología y su <br>
 alianza con la ingeniería genética.<br>
-<br>
-<td><img src=biot4.jpg height="200">
+
 <br>
 <br>
 <b>Industria</b><br>
@@ -70,7 +66,7 @@ La revolución de los nuevos materiales inteligentes de la mano de la biotecnolo
 empezar, y en breve podríamos tener hormigón autorreparable, plantas que cambian de color al detectar un <br>
 explosivo, ropa y calzado elaborados con tela de araña sintética, etc.<br>
 <br>
-<td><img src=biot5.jpg height="200">
+
 <br>
 <br>
 <b>Alimentación</b><br>
@@ -78,14 +74,12 @@ Además de los alimentos transgénicos que mencionamos anteriormente, gracias a 
 han creado productos como el maíz WEMA, un tipo de cultivo resistente a las sequías y a ciertos insectos <br>
 que puede ser fundamental para luchar contra el hambre en África.<br>
 <br>
-<td><img src=biot6.jpg height="200">
 <br>
 <br>
 <b>Medio ambiente</b><br>
 A través de los procesos de biorremediación, muy útiles para la recuperación ecológica, se aprovechan las <br>
 facultades catabólicas de microorganismos, hongos, plantas y enzimas para recuperar ecosistemas contaminados.<br>
-<br>
-<td><img src=biot7.jpg height="200">
+
 <br>
 <br>
 <hr size="10" width="1400" color="lightblue">
@@ -140,7 +134,7 @@ como se ha comentado anteriormente, los procesos de biorremediación.<br>
 La también conocida como bioinformática se encarga de obtener, almacenar, analizar y separar la información <br>
 biológica, sobre todo la relativa a las secuencias de ADN y aminoácidos.<br>
 <br>
-<td><img src=biot8.jpg height="400"><br>
+
 <br>
 <hr size="10" width="1400" color="lightblue">
 <br>
