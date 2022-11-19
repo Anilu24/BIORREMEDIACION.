@@ -78,7 +78,7 @@ que puede ser fundamental para luchar contra el hambre en África.<br>
 <br>
 <b>Medio ambiente</b><br>
 A través de los procesos de biorremediación, muy útiles para la recuperación ecológica, se aprovechan las <br>
-facultades catabólicas de microorganismos, hongos, plantas y enzimas para recuperar ecosistemas contaminados.<br>
+facultades catabólicas de microorganismos, hongos, plantas y enzimas para recuperar ecosistemas contaminados..<br>
 
 <br>
 <br>
